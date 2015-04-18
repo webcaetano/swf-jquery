@@ -1,6 +1,7 @@
 # swfJQ.js
 
 jQuery plugin that easily manipulate SWF based on SWFObject.
+
 This awesome class exist since 2009 but never has added to Bower.
 
 #### Project to-do list.
@@ -8,10 +9,12 @@ This awesome class exist since 2009 but never has added to Bower.
 - [ ] Setup to bower.
 - [ ] Finish documentation.
 - [ ] Create Demo
+- [ ] Create swfZepto
 
 
 #### Authors 
 [@jonathantneal](https://github.com/jonathantneal)
+
 [@webcaetano](https://github.com/webcaetano)
 
 -----------
