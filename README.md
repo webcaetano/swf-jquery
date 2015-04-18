@@ -1,4 +1,4 @@
-# swfJQ.js
+# swfJQ.js [Bower version](https://badge.fury.io/bo/swf-jquery.svg)
 
 jQuery plugin that easily manipulate SWF based on SWFObject.
 
@@ -6,7 +6,7 @@ This awesome class exist since 2009 but never has added to Bower.
 
 ### Quickstart 
 
-Using [Bower](http://bower.io/)
+Using [Bower](http://bower.io)
 ```
 bower install swf-query --save
 ```
