@@ -4,7 +4,7 @@
 
 jQuery plugin that easily manipulate SWF based on SWFObject.
 
-This awesome class exist since 2009 but never has added to Bower.
+This awesome class exist since 2009. Now on Bower.
 
 ### Quickstart
 
