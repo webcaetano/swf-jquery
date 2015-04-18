@@ -1,4 +1,4 @@
-### ![Bower version](https://badge.fury.io/bo/swf-jquery.svg)
+![Bower version](https://badge.fury.io/bo/swf-jquery.svg)
 
 # ![swfJQ Logo](http://i.imgur.com/Wed19Q4.png)
 
