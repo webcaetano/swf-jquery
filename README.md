@@ -1,10 +1,10 @@
-# swfJQ ![Bower version](https://badge.fury.io/bo/swf-jquery.svg)
+# ![swfJQ Logo](http://i.imgur.com/Wed19Q4.png) ![Bower version](https://badge.fury.io/bo/swf-jquery.svg)
 
 jQuery plugin that easily manipulate SWF based on SWFObject.
 
 This awesome class exist since 2009 but never has added to Bower.
 
-### Quickstart 
+### Quickstart
 
 Using [Bower](http://bower.io)
 ```
@@ -19,7 +19,7 @@ bower install swf-query --save
 - [ ] Create swfZepto
 
 
-#### Authors 
+#### Authors
 [@jonathantneal](https://github.com/jonathantneal)
 
 [@webcaetano](https://github.com/webcaetano)
