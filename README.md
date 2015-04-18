@@ -1,4 +1,4 @@
-# swfJQ.js ![Bower version](https://badge.fury.io/bo/swf-jquery.svg)
+# swfJQ ![Bower version](https://badge.fury.io/bo/swf-jquery.svg)
 
 jQuery plugin that easily manipulate SWF based on SWFObject.
 
