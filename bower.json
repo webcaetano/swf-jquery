@@ -1,16 +1,16 @@
 {
-	"name": "swf-jquery",
-	"version": "1.2.0",
-	"authors": "Andre Caetano <webandrecaetano@gmail.com> Jonathan Neal <jonathantneal+github@gmail.com>",
-	"description": "jQuery plugin that easily manipulate SWF based on SWFObject",
-	"main": "swfJQ.js",
-	"keywords": [
-		"swf",
-		"jquery",
-		"flash",
-		"actionscript",
-		"SWFObject",
-		"as3"
-	],
-	"license": "MIT"
+  "name": "swf-jquery",
+  "version": "1.2.0",
+  "authors": "Andre Caetano <webandrecaetano@gmail.com> Jonathan Neal <jonathantneal+github@gmail.com>",
+  "description": "jQuery plugin that easily manipulate SWF based on SWFObject",
+  "main": "swfJQ.js",
+  "keywords": [
+    "swf",
+    "jquery",
+    "flash",
+    "actionscript",
+    "SWFObject",
+    "as3"
+  ],
+  "license": "MIT"
 }
