@@ -22,11 +22,11 @@ bower install swf-jquery --save
   - [$(selector).flash](#selectorflash)
   - [Parameters](#load-with-parameters)
   - [$.flash.available](#flashavailable)
-  - [$.flash.version](#$flashversion)
-  - [$.flash.hasVersion](#flashhasVersion)
+  - [$.flash.version](#flashversion)
+  - [$.flash.hasVersion](#flashhasversion)
   - [$.flash.activeX](#flashactivex)
   - [$.flash.expressInstaller](#flashexpressinstaller)
-  - [$.flash.encodeParams](#flashencodeParams)
+  - [$.flash.encodeParams](#flashencodeparams)
   - [$.flash](#flash)
 
 
