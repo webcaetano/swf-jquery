@@ -6,15 +6,15 @@ jQuery plugin that easily manipulate SWF based on SWFObject.
 
 This awesome class exist since 2009. Now on Bower.
 
+### Demo
+[http://webcaetano.github.io/swf-jquery/](http://webcaetano.github.io/swf-jquery/)
+
 ### Quickstart
 
 Using [Bower](http://bower.io)
 ```
 bower install swf-jquery --save
 ```
-
-### Demo
-[http://webcaetano.github.io/swf-jquery/](http://webcaetano.github.io/swf-jquery/)
 
 # Documentation
 
