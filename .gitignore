@@ -11,7 +11,6 @@ protractor.conf.js
 package.json
 npm-debug.log
 karma.conf.js
-bower.json
 .yo-rc.json
 .jshintrc
 .editorconfig
