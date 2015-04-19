@@ -16,3 +16,4 @@ bower.json
 .jshintrc
 .editorconfig
 .bowererrc
+*.fla
