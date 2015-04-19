@@ -10,7 +10,7 @@ This awesome class exist since 2009. Now on Bower.
 
 Using [Bower](http://bower.io)
 ```
-bower install swf-query --save
+bower install swf-jquery --save
 ```
 
 #### Project to-do list.
