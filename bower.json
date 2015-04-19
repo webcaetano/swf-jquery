@@ -4,7 +4,8 @@
   "dependencies": {
     "jquery": "~2.1.3",
     "normalize.less": "~1.0.0",
-    "swf-jquery": "~1.2.0"
+    "swf-jquery": "~1.2.0",
+    "prism": "*"
   },
   "resolutions": {
     "jquery": "~2.1.1"
