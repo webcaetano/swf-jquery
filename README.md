@@ -13,13 +13,14 @@ Using [Bower](http://bower.io)
 bower install swf-jquery --save
 ```
 
-### Demo 
+### Demo
 [http://webcaetano.github.io/swf-jquery/](http://webcaetano.github.io/swf-jquery/)
 
 # Documentation
 
 
-  - [$(selector).flash()](#$(selector).flash())
+  - [$(selector).flash()](#selectorflash)
+  - [Parameters](#loadwithparameters)
 
 
 ### $(selector).flash()
@@ -34,7 +35,7 @@ $('#div1').flash('myFlash.swf');
 
 Load a flash swf with parameters.
 
-flashvars accept *string,boolean,number* 
+flashvars accept *string,boolean,number*
 
 for *object* and *array* use JSON.stringify() and JSON.parse() on actionscript
 
@@ -45,7 +46,7 @@ $('#div1').flash({
 	width: 600, // stage width
 	allowFullScreen: true,
 	wmode: 'transparent', // background transparent
-	flashvars: { // set Flash variables 
+	flashvars: { // set Flash variables
 		players: 2,
 		computer: true,
 		foo: 'bar',
@@ -64,7 +65,7 @@ return $.flash.available; // returns true if Flash plugin available
 
 ### $.flash.version
 
-Return a object containing version information about the the user's Flash plugin. 
+Return a object containing version information about the the user's Flash plugin.
 
 ```javascript
 return $.flash.version
